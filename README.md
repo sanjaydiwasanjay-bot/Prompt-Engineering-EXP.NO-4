@@ -56,4 +56,4 @@ navigation, social media usage, online learning, and mobile photography.”
 Result: Thus, prompts for Comparative Analysis, Experiential Perspective, and Everyday Functioning prompt types
 were successfully generated.
 
-  RESULT:
+  RESULT:THIS PROMPT RUN SUCCESFULLEY
