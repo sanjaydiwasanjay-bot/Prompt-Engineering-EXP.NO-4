@@ -40,5 +40,20 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  1. Comparative Analysis Prompt
+Definition: This type of prompt compares two or more items based on their features, advantages, disadvantages, or
+performance.
+Prompt Example: “Compare and contrast Android and iPhone smartphones in terms of battery life, camera quality,
+performance, security, and price. Explain which is more suitable for students and daily users.”
+3. Experiential Perspective Prompt
+Definition: This type of prompt explains a topic from the viewpoint or experience of a particular person or group.
+Prompt Example: “From a student’s perspective, explain how using a smartphone with AI features helps in online
+classes, communication, photography, and entertainment.”
+4. Everyday Functioning Prompt
+Definition: This type of prompt describes how technology or a concept is used in daily life.
+Prompt Example: “Describe how AI-powered smartphones help people in everyday activities such as video calling,
+navigation, social media usage, online learning, and mobile photography.”
+Result: Thus, prompts for Comparative Analysis, Experiential Perspective, and Everyday Functioning prompt types
+were successfully generated.
 
   RESULT:
